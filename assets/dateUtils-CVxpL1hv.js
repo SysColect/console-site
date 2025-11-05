@@ -1,1 +1,0 @@
-import{T as o}from"./index-D2YYDgzy.js";const t=e=>{if(!e)return null;if(e instanceof o||typeof e.toDate=="function")return e.toDate();if(e.seconds&&typeof e.seconds=="number")return new Date(e.seconds*1e3);const n=new Date(e);return n instanceof Date&&!isNaN(n.getTime())?n:null};export{t as f};
