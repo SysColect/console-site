@@ -1,0 +1,1 @@
+import{j as s,B as e,S as t}from"./index-CpxBzFV8.js";const a=({title:o,actions:x,children:r})=>s.jsxs(e,{sx:{display:"flex",flexDirection:"column",minHeight:"100vh"},children:[s.jsx(t,{title:o,actions:x,readOnly:!0}),s.jsx(e,{component:"main",sx:{flexGrow:1,py:2,px:{xs:0,sm:2},mt:6},children:r})]});export{a as T};
